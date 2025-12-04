@@ -1,0 +1,36 @@
+{
+    "cards": [
+        {
+            "id": "celulares",
+            "titulo":"Assistência Técnica para Celulares",
+            "descricao": "Troca de telas,baterias e diagnósticos avançados.",
+            "imagem":"img/imagemcelular.jpg.webp"
+        },
+        {
+      "id": "pcs",
+      "titulo": "PCs e Notebooks",
+      "descricao": "Formatação, limpeza interna, upgrades e manutenção completa.",
+      "imagem": "img/imagemnotebook.jpg.jpg"
+    },
+    {
+      "id": "manutencao",
+      "titulo": "Manutenção de Impressoras",
+      "descricao": "Manutenção preventiva e corretiva.",
+      "imagem": "img/imagemimpressora.jpg"
+    },
+    {
+      "id": "suprimentos",
+      "titulo": "Suprimentos para Impressoras",
+      "descricao": "Toner, cartuchos e peças originais.",
+      "imagem": "img/suprimentos.jpg"
+    },
+
+    {
+      "id": "locacao",
+      "titulo": "Locação de Impressoras",
+      "descricao": "Planos empresariais com suporte total.",
+      "imagem": "img/imagemlocação.jpg"
+    }
+    ]
+}
+    
