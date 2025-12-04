@@ -10,7 +10,7 @@
       "id": "pcs",
       "titulo": "PCs e Notebooks",
       "descricao": "Formatação, limpeza interna, upgrades e manutenção completa.",
-      "imagem": "img/imagemnotebook.jpg.jpg"
+      "imagem": "img/imagemnotebook.jpg"
     },
     {
       "id": "manutencao",
@@ -29,8 +29,9 @@
       "id": "locacao",
       "titulo": "Locação de Impressoras",
       "descricao": "Planos empresariais com suporte total.",
-      "imagem": "img/imagemlocação.jpg"
+      "imagem": "img/imagemlocacao.jpg"
     }
     ]
 }
+
     
