@@ -2,8 +2,8 @@
     "cards": [
         {
             "id": "celulares",
-            "titulo":"Assistência Técnica para Celulares",
-            "descricao": "Troca de telas,baterias e diagnósticos avançados.",
+            "titulo": "Celulares",
+            "descricao": "Troca de telas, vidros, baterias e diagnósticos avançados.",
             "imagem":"img/imagemcelular.jpg"
         },
         {
@@ -35,6 +35,7 @@
 }
 
     
+
 
 
 
