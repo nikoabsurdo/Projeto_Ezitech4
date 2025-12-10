@@ -231,12 +231,27 @@ footer iframe {
     header {
         flex-direction: column;
         text-align: center;
-        padding: 20px;
+        padding: 6px 12px;
     }
 
+  header h1 { 
+          font-size: 20px;
+      
+
     header nav {
-        margin-top: 10px;
+        margin-top: 6px;
     }
+
+    header nav a { 
+             margin-top: 6px; 
+    } 
+
+    nav ul { 
+          display: flex; 
+          flex-wrap: wrap; 
+          justify-content: center; 
+          gap: 6px 12px; 
+          padding: 4px 0; 
 
     .info-bar {
         flex-direction: column;
@@ -379,6 +394,7 @@ footer iframe {
     border-top: 1px solid #ccc; /* cor da linha */
     margin: 40px 0;            /* espaçamento */
 }
+
 
 
 
